@@ -68,7 +68,7 @@ The Sensors-Based App is an Android application developed in Android Studio usin
 
 To set up any of the above-mentioned mobile applications on your local machine, follow these steps:
 
-1. **Clone the repository**: Clone the repository to your local machine using the command `git clone <repository-url>`.
+1. **Clone the repository**: Clone the repository to your local machine using the command `git clone https://github.com/muhammadajlal/Miscellaneous-Mobile-Applications.git`.
 
 2. **Open the project in Android Studio**: Navigate to the directory where you cloned the repository and open any of the projects in Android Studio.
 
